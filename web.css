@@ -3,7 +3,7 @@ body {
 }
 
 #title {
-  background-image: href="titlebg.png";
+  background-image: ("titlebg.png");
   text-align: center;
 }
 
